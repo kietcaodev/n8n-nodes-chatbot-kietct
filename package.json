@@ -1,0 +1,14 @@
+{
+  "name": "n8n-nodes-chatbot-kietct",
+  "version": "1.0.4",
+  "description": "Minimal working custom node for n8n",
+  "main": "nodes/ChatbotNode.js",
+  "author": "KietCT",
+  "license": "MIT",
+  "keywords": ["n8n", "n8n-community-node-package"],
+  "n8n": {
+    "nodes": [
+      "nodes/ChatbotNode.js"
+    ]
+  }
+}
